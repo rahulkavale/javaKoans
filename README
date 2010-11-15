@@ -1,0 +1,7 @@
+An effort to create a suite of tests that demonstrate the Java language.  I hope to use this
+in teaching a Java class to programmers with limited access to the internet.
+
+tests/ contains the tests that must be satisfied
+answers/ contains one possible set of answers
+
+
